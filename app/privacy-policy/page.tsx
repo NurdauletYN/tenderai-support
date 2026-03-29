@@ -69,7 +69,7 @@ export default function PrivacyPolicyPage() {
 
       <div style={sectionStyle}>
         <h2>8. Contact</h2>
-        <p>Email: support@yourdomain.com</p>
+        <p>Email: yerkinbekovn@gmail.com</p>
       </div>
     </main>
   );
